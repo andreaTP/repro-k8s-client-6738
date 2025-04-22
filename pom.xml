@@ -12,11 +12,10 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <quarkus.platform.artifact-id>quarkus-bom</quarkus.platform.artifact-id>
         <quarkus.platform.group-id>io.quarkus.platform</quarkus.platform.group-id>
-        <quarkus.platform.version>3.17.3</quarkus.platform.version>
-        <kubernetes-client.version>6.13.4</kubernetes-client.version>
-        <sundrio.version>0.103.1</sundrio.version>
-        <!-- <sundrio.version>0.200.0</sundrio.version> -->
-        <lombok.version>1.18.36</lombok.version>
+        <quarkus.platform.version>3.21.1</quarkus.platform.version>
+        <kubernetes-client.version>7.1.0</kubernetes-client.version>
+        <sundrio.version>0.200.3</sundrio.version>
+        <lombok.version>1.18.38</lombok.version>
 
         <skipITs>true</skipITs>
     </properties>
